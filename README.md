@@ -1,16 +1,26 @@
-## Hi there 👋
+# Salvatore Biamonte
+**MS Student in Artificial Intelligence and Computer Science at University [XXXX]**
 
-<!--
-**SalvatoreBia/SalvatoreBia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreBia&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=SalvatoreBia&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate student specializing in AI and Computer Science. I really like to program in C and I have an interest in HPC (check [this out](https://github.com/SalvatoreBia/YOUR-REPO-NAME))
+
+Beyond coding, I am a drummer and a music enthusiast. I also enjoy reading manga and watching anime. I often doomscroll on instagram though.
+
+**Current Favorite Track**
+
+<a href="https://youtu.be/-_0VrxrmC8k?si=PNxE6i8Y8x2toGHo">
+<img src="https://img.shields.io/badge/Now_Playing-Take_The_Veil_Cerpin_Taxt-black?style=flat-square&logo=spotify" alt="Favorite Song">
+</a>
+
+---
+
+**Contact**
+[salvatore.biamonte02@gmail.com](mailto:salvatore.biamonte02@gmail.com)
