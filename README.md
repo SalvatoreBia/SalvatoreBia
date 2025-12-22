@@ -10,7 +10,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=SalvatoreBia&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
 </div>
 
-I am a graduate student specializing in AI and Computer Science. I really like to program in C and I have an interest in HPC (check [this out](https://github.com/SalvatoreBia/YOUR-REPO-NAME))
+I am a graduate student specializing in AI and Computer Science. I really like to program in C and I have an interest in HPC (check [this out](https://github.com/SalvatoreBia/particle_in_cell3D.git))
 
 Beyond coding, I am a drummer and a music enthusiast. I also enjoy reading manga and watching anime. I often doomscroll on instagram though.
 
