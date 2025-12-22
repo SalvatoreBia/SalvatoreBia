@@ -1,5 +1,5 @@
 # Salvatore Biamonte
-**MS Student in Artificial Intelligence and Computer Science at University [XXXX]**
+**MS Student in Artificial Intelligence and Computer Science at University of Calabria**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreBia&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
