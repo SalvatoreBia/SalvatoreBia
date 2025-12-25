@@ -1,24 +1,29 @@
 # Salvatore Biamonte
 **MS Student in Artificial Intelligence and Computer Science at University of Calabria**
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreBia&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
 
-<br/>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=SalvatoreBia&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
-</div>
+*A te che arranchi*<br>
+*per andare avanti,*<br>
+*che cerchi l'appoggio di mani distanti,*<br>
+*tra vecchi rimpianti*<br>
+*e il peso dei respiri pesanti.*<br>
 
-I am a graduate student specializing in AI and Computer Science. I really like to program in C and I have an interest in HPC (check [this out](https://github.com/SalvatoreBia/particle_in_cell3D.git))
+*A te che pensi*<br>
+*di farti eremita,*<br>
+*di non meritare questa vita,*<br>
+*di volerla, d'un tratto, finita.*<br>
 
-Beyond coding, I am a drummer and a music enthusiast. I also enjoy reading manga and watching anime. I often doomscroll on instagram though.
+*A te che credi*<br>
+*di non avere più niente,*<br>
+*solo  tra i passi di troppa gente:*<br>
+*Oh ti sbagli, eccome se ti sbagli. C'è chi ti legge*<br>
+*oltre i tuoi tagli.*<br>
 
-**Current Favorite Track**
-
-<a href="https://youtu.be/-_0VrxrmC8k?si=PNxE6i8Y8x2toGHo">
-<img src="https://img.shields.io/badge/Now_Playing-Take_The_Veil_Cerpin_Taxt-black?style=flat-square&logo=spotify" alt="Favorite Song">
-</a>
+*Resta qui, non chiudere la porta,*<br>
+*ogni tua ferita, a me, importa.*<br>
+*Perché anche nel buio più fondo,*<br>
+*il tuo buio è luce per questo mondo.*<br>
 
 ---
 
